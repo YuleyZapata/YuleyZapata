@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YuleyZapata
-- 👀 I’m interested in Data science and full stack developing
-- 🌱 I’m currently learning python and data science
+- 👀 I’m interested in Data Science and Full Stack Developing
+- 🌱 I’m currently learning python for data science
 - 💞️ I’m looking to collaborate on projects
 - 📫 You can reach me by E-mail
 
